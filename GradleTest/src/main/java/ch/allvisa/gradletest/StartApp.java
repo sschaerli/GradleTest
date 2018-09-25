@@ -6,5 +6,9 @@ public class StartApp {
 		// TODO Auto-generated method stub
 		System.out.println("Hello World");
 	}
+	
+	public void test() {
+		System.out.println("Hello World3");
+	}
 
 }
